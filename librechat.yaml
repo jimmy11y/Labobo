@@ -1,0 +1,19 @@
+version: 1.1.0
+endpoints:
+  custom:
+    - name: "NVIDIA-Vision"
+      apiKey: "${NVIDIA_API_KEY}"
+      baseURL: "https://integrate.api.nvidia.com/v1"
+      models:
+        modelOptions:
+          - "kimi-2.5"
+      vision: true
+
+    - name: "NVIDIA-Text"
+      apiKey: "${NVIDIA_API_KEY}"
+      baseURL: "https://integrate.api.nvidia.com/v1"
+      models:
+        modelOptions:
+          - "z-ai/glm-5.1"
+          - "deepseek-ai/deepseek-v4-pro"
+      vision: false
