@@ -1,0 +1,35 @@
+Hi Julian,
+
+As discussed, here is the formal request.
+
+Concept Summary
+
+I am developing an interactive breathing robot intervention to support emotion regulation in children with autism (ages 6 to 12). The robot models slow, rhythmic breathing patterns that the child synchronizes with through visual and tactile engagement. This activates the parasympathetic nervous system, increases heart rate variability, and with repeated sessions builds the child's capacity to downregulate physiological arousal independently. We track change through HRV, fMRI (amygdala-prefrontal connectivity), behavioral observation, and standardized emotion regulation scales.
+
+Most existing breathing-simulating devices are stationary, screen-based, or built for adult use in lab or clinical settings. This project delivers a portable, plush, autism-adapted robot for real-world daily use, targeting a specific clinical population with measurable physiological and neural outcomes. The principle of paced breathing is well established. What is new is translating it into a tool that children with autism can use on their own terms, independently, in their everyday environments.
+
+Research Setup
+
+Multiple-case mixed-methods design with 10 children at Al Shafallah Center in Doha. Each child completes 12 weekly sessions with the robot. Baseline and post-intervention assessments include resting HRV, fMRI at Hamad Medical Corporation, parent-reported emotion regulation questionnaires, and behavioral coding. Interim monitoring occurs at weeks 3, 6, and 9. The team includes clinical advisors, robotics engineers from Qatar University, and neuroscience collaborators.
+
+Collaboration with Somnox
+
+As I mentioned in our call, I have reached a structural barrier. In Qatar, accessing research funding and clinical partnerships requires formal institutional affiliation. I am an independent researcher, and that status is no longer sufficient to move this forward.
+
+I am seeking to join Somnox as a researcher because what you build and what I am working toward sit on the same line. Specifically, I am looking for Somnox to serve as the institutional home for this work, providing the organizational affiliation needed to activate the funding and clinical access already in place. Beyond that, the robot in this study could be Somnox's own platform adapted for this pediatric autism application. That would make Somnox the first to deliver a clinically validated breathing robot for emotion regulation in children with autism, not just in Qatar but globally.
+
+QRDI Funding
+
+I have been in contact with QRDI. They are prepared to fund this project. Qatar has one of the highest autism prevalence rates in the world, and the government commits hundreds of millions annually to autism research and services. The funding pathway is active. What has been missing is the institutional affiliation that QRDI requires, and that is exactly what joining Somnox would resolve.
+
+Background
+
+My name is Wesam Mahdi Harahsheh. I am 24, from Jordan, and I have been conducting independent research in neuroscience and psychology since 2019. In 2021 I experienced temporal lobe epilepsy, and that event clarified something for me: the standard we accept for quality of life, particularly for those who cannot advocate for themselves, has to be higher. I work as a private English tutor in Qatar, and through visiting students in their homes I spent extended time observing autistic children. What I saw was that they do not need another protocol to comply with. They need a tool they can hold and use on their own. That is where this started.
+
+The ethical case is straightforward. Children with autism deserve regulation tools that respect their neurology and their autonomy. The fact that this positions Somnox to lead a space that currently has no validated clinical solution is a consequence of doing the right thing well, not the other way around.
+
+I am available to discuss next steps at whatever time works for you and the team.
+
+Best,
+Wesam Mahdi Harahsheh
+
